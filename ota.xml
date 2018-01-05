@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AICP</RomName>
-<VersionName>aicp_athene_o-13.1-UNOFFICIAL-20180104</VersionName>
-<VersionNumber type="integer">20180104</VersionNumber>
+<VersionName>aicp_athene_o-13.1-UNOFFICIAL-20180105</VersionName>
+<VersionNumber type="integer">20180105</VersionNumber>
 <DirectUrl><![CDATA[]]></DirectUrl>
-<HttpUrl><![CDATA[https://androidfilehost.com/?w=files&flid=237435]]></HttpUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aicp-athene/files/AICP%2013.1/]]></HttpUrl>
 <Android>8.1</Android>
 <CheckMD5></CheckMD5>
-<FileSize type="integer">352845824</FileSize>
+<FileSize type="integer"></FileSize>
 <Developer><![CDATA[(Ali Al-Asadi alial04)]]></Developer>
-<WebsiteURL><![CDATA[ no thread yet will come in the future!]]></WebsiteURL>
+<WebsiteURL><![CDATA[ no oreo thread yet will come in the future!]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/alial04]]></DonateURL>
 <Changelog>
 <![CDATA[
