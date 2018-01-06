@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AICP</RomName>
-<VersionName>aicp_athene_o-13.1-UNOFFICIAL-20180105</VersionName>
-<VersionNumber type="integer">20180105</VersionNumber>
-<DirectUrl><![CDATA[]]></DirectUrl>
+<VersionName>aicp_athene_o-13.1-UNOFFICIAL-20180106</VersionName>
+<VersionNumber type="integer">20180106</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aicp-athene/AICP%2013.1/aicp_athene_o-13.1-UNOFFICIAL-20180106.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faicp-athene%2Ffiles%2FAICP%252013.1%2F&ts=1515269718&use_mirror=netix]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aicp-athene/files/AICP%2013.1/]]></HttpUrl>
 <Android>8.1</Android>
-<CheckMD5></CheckMD5>
-<FileSize type="integer"></FileSize>
+<CheckMD5>f54185dd6bc5d0b5470e5f25439f840f</CheckMD5>
+<FileSize type="integer">449624615</FileSize>
 <Developer><![CDATA[(Ali Al-Asadi alial04)]]></Developer>
-<WebsiteURL><![CDATA[ no oreo thread yet will come in the future!]]></WebsiteURL>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/moto-g4-plus/development/rom-aicp-13-1-o-8-1-0-official-weekly-t3731269]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/alial04]]></DonateURL>
 <Changelog>
 <![CDATA[
@@ -21,6 +21,6 @@ Builds will be listed as weeklies. So don't ask for ETAs.
 </Changelog>
 <AddonCount>3</AddonCount>
 <AddonsURL>
-https://goo.gl/KUWru6
+
 </AddonsURL>
 </ROM>
