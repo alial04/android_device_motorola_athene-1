@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AICP</RomName>
-<VersionName>aicp_athene_o-13.1-UNOFFICIAL-20180114</VersionName>
-<VersionNumber type="integer">20180114</VersionNumber>
-<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aicp-athene/AICP%2013.1/aicp_athene_o-13.1-UNOFFICIAL-20180114.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faicp-athene%2Ffiles%2FAICP%252013.1%2Faicp_athene_o-13.1-UNOFFICIAL-20180114.zip%2Fdownload&ts=1515940650&use_mirror=autoselect]]></DirectUrl>
+<VersionName>aicp_athene_o-13.1-UNOFFICIAL-20180123</VersionName>
+<VersionNumber type="integer">20180123</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aicp-athene/AICP%2013.1/aicp_athene_o-13.1-UNOFFICIAL-20180122.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faicp-athene%2Ffiles%2FAICP%252013.1%2Faicp_athene_o-13.1-UNOFFICIAL-20180122.zip%2Fdownload&ts=1516691081&use_mirror=autoselect]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aicp-athene/files/AICP%2013.1/]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>a05e32ae03bb88bcaa78e4d3bc7952e4</CheckMD5>
-<FileSize type="integer">452092530</FileSize>
+<CheckMD5>c343855093decfd2ceee4f4e24c004d7</CheckMD5>
+<FileSize type="integer">454642868</FileSize>
 <Developer><![CDATA[(Ali Al-Asadi alial04)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/moto-g4-plus/development/rom-aicp-13-1-o-8-1-0-official-weekly-t3731269]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/alial04]]></DonateURL>
